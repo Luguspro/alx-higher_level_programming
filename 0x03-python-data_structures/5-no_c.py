@@ -6,6 +6,7 @@ def no_c(my_string):
             char += i
     return char
 
+
 print("\n")
 print(no_c("Best School"))
 print(no_c("Chicago"))
