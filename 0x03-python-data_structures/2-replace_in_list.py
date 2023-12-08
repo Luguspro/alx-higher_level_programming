@@ -5,6 +5,7 @@ def replace_in_list(my_list, idx, element):
     my_list[idx] = element
     return my_list
 
+
 print("\n")
 my_list = [1, 2, 3, 4, 5]
 idx = 3
