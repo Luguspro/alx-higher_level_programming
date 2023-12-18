@@ -1,1 +1,1 @@
-Python-Data Structures, List and Tuples
+This file consists of solutions for python projects
